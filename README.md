@@ -2,6 +2,3 @@ m08_pr
 hola
 adios
 buenas
-ggd
-fddf
-sada
